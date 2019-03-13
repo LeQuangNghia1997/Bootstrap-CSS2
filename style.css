@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+#header{
+    background: blanchedalmond;
+    height: 100px;
+    width: 100%;
+    margin-bottom: fill;
+}
+#head-link {
+    background: darkgray;
+    height:50px ;
+    width:  100%;
+}
+#left{
+    width: 400px;
+    height: 500px;
+    float: left;
+    background: aquamarine;
+}
+#content {
+    
+}
